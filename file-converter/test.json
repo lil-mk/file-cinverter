@@ -1,0 +1,20 @@
+[
+  {
+    "age": "30",
+    "email": "jean.dupont@example.com",
+    "id": "1",
+    "nom": "Jean Dupont"
+  },
+  {
+    "age": "35",
+    "email": "marie.curie@example.com",
+    "id": "2",
+    "nom": "Marie Curie"
+  },
+  {
+    "age": "42",
+    "email": "albert.einstein@example.com",
+    "id": "3",
+    "nom": "Albert Einstein"
+  }
+]

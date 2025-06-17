@@ -1,0 +1,25 @@
+// Structure du projet:
+// file-converter/
+// ├── cmd/
+// │   └── cli/
+// │       └── main.go
+// ├── internal/
+// │   ├── converter/
+// │   │   ├── converter.go
+// │   │   ├── text.go
+// │   │   ├── image.go
+// │   │   └── compress.go
+// │   └── api/
+// │       └── handlers.go
+// ├── pkg/
+// │   └── utils/
+// │       └── utils.go
+// ├── main.go
+// └── go.mod
+
+
+
+
+
+
+
